@@ -16,3 +16,7 @@
   - This app has allowed me to learn and practice MVVM, more frameworks (SwiftUI, CoreLocation, WidgetKit and XCTest), dependency injection and using Instruments to check for memory leaks.
   - By practicing and picking up these frameworks I delved a lot into Apple's documentation and WWDC videos. I started with the documentation when implementing the frameworks, and, as a result, I've become more confident and familiar with Apple's documentation.
   - Note: to run the app a valid Open Weather API key will need to be added to two functions in the WeatherService file.
+
+
+## Screenshots
+<img src="App 1">
