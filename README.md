@@ -19,4 +19,6 @@
 
 
 ## Screenshots
-<img src="App 1">
+
+
+<img src="https://github.com/steven-hill/Weather-app/blob/main/App%201.png?raw=true" width="275" height="575">
