@@ -1,9 +1,11 @@
 # Weather-app
 
+## A SwiftUI app that uses the Open Weather API to get the current weather for the user's location.
+
   - A SwiftUI app written in Swift 5.9 with Xcode 15.1.
   - The iOS deployment target is 17.0.
   - It's a single view iOS app with a widget extension, supporting a small and medium sized widget.
-  - It uses CoreLocation to get the user's location (if the user grants permission). Then it makes two network calls using the Open Weather API to get the current weather data for that location.
+  - It uses CoreLocation to get the user's location (if the user grants permission). Then it makes two network calls using the Open Weather API to get the current weather data and the AQI data for that location.
   - The app then displays the data on screen or presents an alert if an error has occurred.
   - Network code uses the Result type and completion handlers.
   - To handle different size classes I used GeometryReader, removing many hard coded values which I had initially used when building out the UI.
