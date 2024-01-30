@@ -1,0 +1,44 @@
+{
+    "coord":
+    {"lon":114.1577,
+        "lat":22.2855
+    },
+    "weather":[
+        {
+            "id":804,
+            "main":"Clouds",
+            "description":"overcast clouds",
+            "icon":"04d"
+        }
+    ],
+    "base":"stations",
+    "main": {
+        "temp":304.66,
+        "feels_like":311.66,
+        "temp_min":302.56,
+        "temp_max":306.18,
+        "pressure":1002,
+        "humidity":80
+    },
+    "visibility":10000,
+    "wind":{
+        "speed":0.45,
+        "deg":85,
+        "gust":4.02
+    },
+    "clouds":{
+        "all":97
+    },
+    "dt":1624095197,
+    "sys":{
+        "type":2,
+        "id":2035800,
+        "country":"HK",
+        "sunrise":1624052387,
+        "sunset":1624100973
+    },
+    "timezone":28800,
+    "id":1819729,
+    "name":"Hong Kong",
+    "cod":200
+}
