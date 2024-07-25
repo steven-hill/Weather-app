@@ -2,7 +2,7 @@
 
 ## A SwiftUI app that uses the Open Weather API to get the current weather for the user's location.
 
-### Features and technical details.
+### Features and technical details
   - A SwiftUI app written in Swift 5.9 with Xcode 15.1.
   - The iOS deployment target is 17.0.
   - It's a single view iOS app with a widget extension, supporting a small and medium sized widget.
