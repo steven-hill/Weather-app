@@ -23,7 +23,7 @@
   - Note: to run the app a valid Open Weather API key will need to be added to two functions in the WeatherService file.
 
 
-## Screenshots
+### Screenshots
 
 <img src="https://github.com/steven-hill/Weather-app/blob/main/App%201.png?raw=true" width="275" height="575">
 <img src="https://github.com/steven-hill/Weather-app/blob/main/App%202.png?raw=true" width="275" height="575">
