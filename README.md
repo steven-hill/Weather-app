@@ -2,7 +2,7 @@
 
 ## A SwiftUI app that uses the Open Weather API to get the current weather for the user's location.
 
-### Features and technical details
+### 📌 Features and technical details
   - A SwiftUI app written in Swift 5.9 with Xcode 15.1.
   - The iOS deployment target is 17.0+.
   - It's a single view iOS app with a widget extension, supporting a small and medium sized widget.
@@ -19,11 +19,11 @@
   - This app has allowed me to learn and practice MVVM, more frameworks (SwiftUI, CoreLocation, WidgetKit and XCTest), dependency injection and using Instruments to check for memory leaks.
   - By practicing and picking up these frameworks I delved a lot into Apple's documentation and WWDC videos. I started with the documentation when implementing the frameworks, and, as a result, I've become more confident and familiar with Apple's documentation.
 
-### Getting started
+### 📲 Getting started
   - Note: to run the app a valid Open Weather API key will need to be added to two functions in the WeatherService file.
 
 
-### Screenshots
+### 📱 Screenshots
 
 <img src="https://github.com/steven-hill/Weather-app/blob/main/App%201.png?raw=true" width="275" height="575">
 <img src="https://github.com/steven-hill/Weather-app/blob/main/App%202.png?raw=true" width="275" height="575">
