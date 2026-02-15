@@ -14,7 +14,7 @@
   - There is a floating button in the bottom right corner which the user can use to refresh the data.
   - I've added accessibility support for some views and the refresh button.
   - It also uses WidgetKit for the home screen widgets (small and medium sizes are supported), which provide glanceable information for the user on their home screen.
-  - The app uses XCTest (and a bit of Combine) for unit tests. The test coverage overall is 75%.
+  - The app uses XCTest (and a bit of Combine) for unit tests.
     
   - This app has allowed me to learn and practice MVVM, more frameworks (SwiftUI, CoreLocation, WidgetKit and XCTest), dependency injection and using Instruments to check for memory leaks.
   - By practicing and picking up these frameworks I delved a lot into Apple's documentation and WWDC videos. I started with the documentation when implementing the frameworks, and, as a result, I've become more confident and familiar with Apple's documentation.
